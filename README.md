@@ -27,7 +27,7 @@ sh ./reduce-powerpoint-file-size.sh powerpoint.pptx
 
 A .pdf file exported from PowerPoint can be quite big, when using the highest settings.
 
-Personally, I use the medium export option.
+To reduce the file size further, the medium export option can be selected.
 
 The option can be find the "General" PowerPoint settings.
 
