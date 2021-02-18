@@ -2,16 +2,18 @@
 
 Reduce the file size of a PowerPoint file by:
 
-1. Unpacking it
-1. Optimize it (using ImageOptim)
-1. Compressing it again
-
-🎉
+1. Unpacking the .pptx file
+1. Optimizing the media files
+    * Convert .tiff to .png
+    * Resize images to max. width/height of 1920px (can be changed)
+    * Compressing the images with ImageOptim
+1. Compressing the unpacked files into the .pptx again
+1. 🎉
 
 ## Requirements
 
-- Have ImageOptim installed
-- Currently, only for MacOS
+* Have ImageOptim installed
+* Currently, only for MacOS
 
 ## How to use
 
