@@ -1,4 +1,4 @@
-# Reduce-PowerPoint-File-Size
+# Reduce PowerPoint File Size
 
 Reduce the file size of a PowerPoint file by:
 
@@ -22,6 +22,16 @@ Start the script with:
 ```bash
 sh ./reduce-powerpoint-file-size.sh powerpoint.pptx
 ```
+
+### Export as .pdf from PowerPoint
+
+A .pdf file exported from PowerPoint can be quite big, when using the highest settings.
+
+Personally, I use the medium export option.
+
+The option can be find the "General" PowerPoint settings.
+
+![PowerPoint - General Settings](docs/powerpoint-settings.png "PowerPoint - General Settings")
 
 ## Credits
 
