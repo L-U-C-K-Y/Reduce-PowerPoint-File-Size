@@ -12,7 +12,7 @@ Reduce the file size of a PowerPoint file by:
 
 ## Requirements
 
-* Have ImageOptim installed
+* Have [ImageOptim](https://imageoptim.com/mac) installed
 * Currently, only for MacOS
 
 ## How to use
